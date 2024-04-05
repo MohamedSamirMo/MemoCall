@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     private val appId = "70707618d55b4ae4a838ac8147e8260d"
     private val cannelName = "memocall"
-    private val token ="007eJxTYHg852f63fdxui09XQKKxq9X5k/X5ggWnBb65dOzY3390/UUGMwNgNDM0CLF1DTJJDHVJNHC2CIx2cLQxDzVwsjMIKUq8lhKQyAjw4PNxxkYoRDE52DITc3NT07MyWFgAAA1ESKN"
+    private val token ="007eJxTYDi7lLMxN+9d3gJpGzZ5ldM6s7/4VpRW84hFO2k+2xi8rleBwdwACM0MLVJMTZNMElNNEi2MLRKTLQxNzFMtjMwMUvqO8Kc1BDIy2HCYMzEyQCCIz8GQm5qbn5yYk8PAAADuLB1x"
     private val uid = 0
 
     private var isJoined = false
